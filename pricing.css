@@ -1,0 +1,49 @@
+.pricing{
+    height: 100vh;
+}
+
+.pricing-container .pricing-head h3{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.price-boxes{
+    /* border: 2px solid green; */
+    display: flex;
+}
+
+.price-boxes .price-box{
+    /* border: 2px solid red; */
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 4rem;
+    width: 28rem;
+}
+
+.price-boxes .price-box h3{
+    font-size: 3rem;
+    background-color: red;
+    height: 7rem;
+    margin-top: -1rem;
+}
+
+.price-boxes .price-box h4{
+    font-size: 6rem;
+    background-color: black;
+    color: white;
+    height: 10rem;
+    margin-top: -3rem;
+}
+
+.price-boxes .price-box p{
+    font-size: 1.5rem;
+}
+
+.price-boxes .price-box a{
+    text-decoration: none;
+    color: rgb(46, 148, 182);
+}
+
+.price-boxes .price-box{
+    box-shadow: 0.5px 0.5px gray;
+}

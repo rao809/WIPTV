@@ -1,0 +1,21 @@
+.footer{
+    height: 12vh;
+    background: linear-gradient(to right,Red,black);
+}
+
+.footer .footer-span p{
+    font-size: 1.5rem;
+    color: white;
+    margin-left: 6rem;
+    /* margin-top: 4rem; */
+}
+
+.footer .icons i{
+font-size: 3rem;
+color: white;
+margin-left: 1rem;
+}
+.footer .icons{
+    margin-left: 110rem;
+    margin-top: -2rem;
+}

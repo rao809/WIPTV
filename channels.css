@@ -1,0 +1,50 @@
+.channels{
+    height: 35vh;
+    margin-top: 2rem;
+}
+
+.channels-container{
+    background-color: red;
+    border-radius: 3rem;
+    height: 30vh;
+    max-height: 30vh;
+    /* margin-top: rem; */
+    width: 120rem;
+    justify-content: center;
+    margin-left: 7rem;
+    border: 0.1px solid red;
+    /* margin-top: 5rem; */
+}
+
+.channels-text p{
+    font-size: 2rem;
+    margin-top: 6rem;
+    /* border: 3px solid lightseagreen; */
+    width: 80rem;
+    margin-left: 2rem;
+}
+
+.channel-btn{
+    background: transparent;
+    border: 0rem;
+    margin-left: 100rem;
+
+}
+
+.channel-btn{
+    font-size: 2rem;
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    background-color: black;
+    height: 4rem;
+    width: 15rem;
+    border-radius: 1rem;
+    text-transform: uppercase;
+}
+
+
+.channel-btn a{
+    text-decoration: none;
+    color: white;
+}
